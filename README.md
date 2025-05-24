@@ -1,4 +1,4 @@
-![Alt text](images\image.png)
+![Alt text](/image.png)
 # 👋 Hello!, I'm Dibyendu Sahoo!_
 ## 📚 About Me
 ### I'm a ECE student with a passion for cybersecurity and design . I love building things and continuously learning new technologies.<br>
