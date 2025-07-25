@@ -1,9 +1,9 @@
 ![Alt text](/image.png)
 # 👋 Hello!, I'm Dibyendu Sahoo!_
-### I like chaos.<br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/F4tal1t.png" alt="Your Image Badge" />
+
+
 💻I’m currently working on Cybersecurity Homelab<br><br>
-🌱 I’m currently learning Go , Docker <br><br>
+🌱 I’m currently learning Kubernetes , AWS <br><br>
 💬Ask me about Blender , Python , Linux<br><br>
 📍 Based in Bengaluru , India <br><br>
 <p>📧 Reach me at <a href="mailto:dibyendusahoo03@gmail.com">dibyendusahoo03@gmail.com</a></p><br>
@@ -14,6 +14,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23F7931C.svg?logo=TryHackMe&logoColor=black )](https://tryhackme.com/p/F4tal1t )
 [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white )](https://x.com/FatalIt8 )<br>
 <a href="https://leetcode.com/Fatal1t/ ">
+<img src="https://tryhackme-badges.s3.amazonaws.com/F4tal1t.png" alt="Your Image Badge" />
   <img src="https://leetcard.jacoblin.cool/Fatal1t?theme=dark " alt="LeetCode Stats" width="400" />
 </a>
 ## 🔧 Tech Stack
