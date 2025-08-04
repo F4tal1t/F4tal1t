@@ -1,4 +1,4 @@
-![Alt text](/image.png)
+![Alt text](/imag3.png)
 # 👋 Hello!, I'm Dibyendu Sahoo!_
 
 
