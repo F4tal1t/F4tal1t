@@ -2,9 +2,9 @@
 # 👋 Hello!, I'm Dibyendu Sahoo!_
 
 
-💻I’m currently working on Live Ddos Visualizer<br><br>
-🌱 I’m currently learning Kubernetes , AWS <br><br>
-💬Ask me about Blender , Python , Linux<br><br>
+💻I’m currently working on Qoal<br><br>
+🌱 I’m currently learning Kubernetes , Graphana , Django , Laravel <br><br>
+💬Ask me about Blender , Python , Linux , AWS , GCP , Go <br><br>
 📍 Based in Bengaluru , India <br><br>
 ![Profile views](https://counter.kuber.studio/F4tal1t/hacker/count.svg)
 <p>📧 Reach me at <a href="mailto:dibyendusahoo03@gmail.com">dibyendusahoo03@gmail.com</a></p><br>
