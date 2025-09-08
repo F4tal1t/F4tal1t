@@ -3,7 +3,7 @@
 
 
 💻I’m currently working on Qoal<br><br>
-🌱 I’m currently learning Kubernetes , Graphana , Django , Laravel <br><br>
+🌱 I’m currently learning Kubernetes , Graphana , Django <br><br>
 💬Ask me about Blender , Python , Linux , AWS , GCP , Go <br><br>
 📍 Based in Bengaluru , India <br><br>
 ![Profile views](https://counter.kuber.studio/F4tal1t/hacker/count.svg)
