@@ -21,10 +21,13 @@
     </td>
     <td width="50%">
       <p>
-        <a href="https://leetcode.com/Fatal1t/"><img src="https://leetcard.jacoblin.cool/Fatal1t?theme=dark" alt="LeetCode Stats" width="400" /></a>
+        <a href="https://leetcode.com/Fatal1t/"><img src="https://leetcard.jacoblin.cool/Fatal1t?theme=dark" alt="LeetCode Stats" width="300" /></a>
       </p>
       <p>
-        <img src="https://tryhackme-badges.s3.amazonaws.com/F4tal1t.png" alt="TryHackMe Badge" />
+        <img src="https://tryhackme-badges.s3.amazonaws.com/F4tal1t.png" alt="TryHackMe Badge" width="300" />
+      </p>
+      <p>
+        <img src="https://counter.kuber.studio/F4tal1t/hacker/count.svg" alt="Profile views">
       </p>
     </td>
   </tr>
