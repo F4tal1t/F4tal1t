@@ -4,11 +4,16 @@
 <table align="center">
   <tr>
     <td valign="top" width="50%">
-      <h3>Currently Contributing to:</h3>
+      <h3>Contributing to:</h3>
       <ul>
-        <li>FossFLOW</li>
+        <li>FossFLOW</li>     
+      </ul>
+        <h3>Contributed to:</h3>
+     <ul>
         <li>Daffodil</li>
         <li>KrowdKraft</li>
+        <li>Ghostfolio</li>
+        <li>enpowermanager</li>
       </ul>
      <h3> My Presence </h3>
      <p>
