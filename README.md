@@ -4,10 +4,15 @@
 <table align="center">
   <tr>
     <td valign="top" width="50%">
-      <h3>Contributing to:</h3>
+      <h3>Contributing</h3>
       <ul>
-        <li>FossFLOW</li>     
+        <li>FossFLOW</li>
+        <li>KaryaAI</li>
       </ul>
+     <h3>Currently Building</h3>
+      <ul>
+        <li>Qoal</li>
+              </ul>
         <h3>Contributed to:</h3>
      <ul>
         <li>Daffodil</li>
