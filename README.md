@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Dibby" src="https://github.com/user-attachments/assets/04878349-0a91-45e4-bfb7-c2af71e0e363" />
+![Dibby](https://github.com/user-attachments/assets/3c572dfe-21cf-4240-85b1-d5c5a7f5bdec)
  <br><br>
 
 <table align="center">
@@ -6,12 +6,12 @@
     <td valign="top" width="50%">
       <h3>Contributing</h3>
       <ul>
+        <li>Podman-Desktop</li>
         <li>FossFLOW</li>
-        <li>KaryaAI</li>
       </ul>
      <h3>Currently Building</h3>
       <ul>
-        <li>Qoal</li>
+        <li>Poxil</li>
               </ul>
         <h3>Contributed to:</h3>
      <ul>
