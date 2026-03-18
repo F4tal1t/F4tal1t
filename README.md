@@ -1,44 +1,12 @@
 ![Dibby](https://github.com/user-attachments/assets/3c572dfe-21cf-4240-85b1-d5c5a7f5bdec)
  <br><br>
-
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Contributing</h3>
-      <ul>
-        <li>Podman-Desktop</li>
-        <li>FossFLOW</li>
-      </ul>
-     <h3>Currently Building</h3>
-      <ul>
-        <li>Mosugo</li>
-              </ul>
-        <h3>Contributed to:</h3>
-     <ul>
-        <li>Daffodil</li>
-        <li>KrowdKraft</li>
-        <li>Ghostfolio</li>
-        <li>enpowermanager</li>
-      </ul>
-     <h3> My Presence </h3>
+Contributed to [Podman-desktop](https://github.com/podman-desktop/podman-desktop) , [FossFLOW](https://github.com/stan-smith/FossFLOW) , [Daffodil](https://github.com/graycoreio/daffodil) , [Ghostfolio](https://github.com/ghostfolio/ghostfolio) and 2 more
+      <h3> My Presence </h3>
      <p>
         <a href="https://www.linkedin.com/in/dibyendusahoo/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         <a href="https://leetcode.com/u/Fatal1t/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black" alt="LeetCode"></a>
         <a href="https://tryhackme.com/p/F4tal1t"><img src="https://img.shields.io/badge/TryHackMe-%23F7931C.svg?logo=TryHackMe&logoColor=black" alt="TryHackMe"></a>
-        <a href="https://x.com/FatalIt8"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X (Twitter)"></a><br><br>
-       <p>📧 Reach me at <a href="mailto:dibyendusahoo03@gmail.com">dibyendusahoo03@gmail.com</a></p>
-      </p>
-    </td>
-    <td width="50%">
-      <p>
-        <a href="https://leetcode.com/Fatal1t/"><img src="https://leetcard.jacoblin.cool/Fatal1t?theme=dark" alt="LeetCode Stats" width="300" /></a>
-      </p>
-      <p>
-        <img src="https://tryhackme-badges.s3.amazonaws.com/F4tal1t.png" alt="TryHackMe Badge" width="300" />
-      </p>
-      <p>
-        <img src="https://counter.kuber.studio/F4tal1t/hacker/count.svg" alt="Profile views">
-      </p>
-    </td>
-  </tr>
-</table>
+        <a href="https://x.com/FatalIt8"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X (Twitter)"></a>
+        <a href="https://peerlist.io/dibyendusahoo03"><img src="https://img.shields.io/badge/Peerlist-%2300AA45.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTAgMEMxNS41MjMgMCAyMCA0LjQ3NyAyMCAxMEMyMCAxNS41MjMgMTUuNTIzIDIwIDEwIDIwQzQuNDc3IDIwIDAgMTUuNTIzIDAgMTBDMCA0LjQ3NyA0LjQ3NyAwIDEwIDBaTTYgNVYxNUgxMC41QzEzLjUzOCAxNSAxNiAxMi41MzggMTYgOS41QzE2IDcuMDE1IDE0LjI2MyA0LjkyOCAxMS45NDMgNC40MzZMMTIgNEg2VjVaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white" alt="Peerlist"></a>
+
+<p>📧 Reach me via <a href="mailto:dibyendusahoo03@gmail.com">Mail</a></p>
